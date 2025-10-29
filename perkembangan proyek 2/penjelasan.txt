@@ -1,0 +1,4 @@
+pembuatan aplikasi mobile untuk proyek smart saajada
+gambar 1 : tampilan loading masuk aplikasi
+gambar 2 : tampilan untuk memasukan ip perangkat microcontroller
+gambar 3 : halaman Utama untuk mengatur minicontroller.
